@@ -4,8 +4,11 @@ This is the replication package for our work submitted to IEEE Transactions on S
 # CCN_WD
 This directory contains the CCN_WDs that we built for all the subject systems used in our experiments. There are three versions of CCN_WDs according to different weighting mechanisms (i.e., OWM, DWM, and EWM). Note that a detailed data set will be available after our work's acceptance. Interested readers can email us (Email: wfpan@zjgsu.edu.cn) to get the whole data set in advance. Please use your institutional email address.
 
-# metrics
-This directory contains the network metric values that we used different approaches to compute the class importance. It also contains the COC values for each class. Our results reported in RQ1 to RQ3 are all computed from these metric values. Interested readers can use these metric values and our source code to replicate our experiments. Note that the metric values are organized into three directories according to different weighting mechanisms (i.e., OWM, DWM, and EWM) used to build the CCN_WDs. A detailed data set will be available after our work's acceptance. Interested readers can email us (Email: wfpan@zjgsu.edu.cn) to get the whole data set in advance. Please use your institutional email address.
+# COC
+This directory contains the COC values. Our results reported in RQ1 to RQ3 are computed using the CCN_WDs and COC values. Interested readers can use these values and our source code to replicate our experiments.
+
+# GoldSet
+This directory contains the true key classes in the subject systems.
 
 # code
 This directory will contain the source code that we used to perform all the experiments after our work's acceptance. Now it is null. Interested readers can email us (Email: wfpan@zjgsu.edu.cn) to get the whole data set in advance. Please use your institutional email address.
