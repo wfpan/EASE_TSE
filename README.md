@@ -2,10 +2,13 @@
 This is the replication package for our work submitted to IEEE Transactions on Software Engineering, i.e., Weifeng Pan, Xin Du, Hua Ming, Dae-Kyoo Kim, Zijiang Yang. EASE: XXX. IEEE Transactions on Software Engineering, 2022, submitted. [[PDF](#)]
 
 # CCN_WD
-This directory contains the CCN_WDs that we built for all the subject systems used in our experiments. There are three versions of CCN_WDs according to different weighting mechanisms (i.e., OWM, DWM, and EWM). Note that a detailed data set will be available after our work's acceptance. Of course, interested readers can email us (Email: wfpan@zjgsu.edu.cn) to get the whole data set in advance. Please use your institutional email address.
+This directory contains the CCN_WDs that we built for all the subject systems used in our experiments. There are three versions of CCN_WDs according to different weighting mechanisms (i.e., OWM, DWM, and EWM). Note that a detailed data set will be available after our work's acceptance. Interested readers can email us (Email: wfpan@zjgsu.edu.cn) to get the whole data set in advance. Please use your institutional email address.
+
+# metrics
+This directory contains the network metric values that we used different approaches to compute the class importance. It also contains the COC values for each class. Our results reported in RQ1 to RQ3 are all computed from these metric values. Interested readers can use these metric values and our source code to replicate our experiments. Note that the metric values are organized into three directories according to different weighting mechanisms (i.e., OWM, DWM, and EWM) used to build the CCN_WDs. A detailed data set will be available after our work's acceptance. Interested readers can email us (Email: wfpan@zjgsu.edu.cn) to get the whole data set in advance. Please use your institutional email address.
 
 # code
-This directory will contain the source code that we used to perform all the experiments after our work's acceptance. Now it is null.
+This directory will contain the source code that we used to perform all the experiments after our work's acceptance. Now it is null. Interested readers can email us (Email: wfpan@zjgsu.edu.cn) to get the whole data set in advance. Please use your institutional email address.
 
 # RQ1, RQ2, and RQ3
 These directories contain the results that we used to answer the RQs.
