@@ -1,0 +1,7 @@
+ClassName
+org.apache.xerces.parsers.DOMParser
+org.apache.xerces.xni.parser.XMLComponentManager
+org.apache.xerces.impl.XMLEntityScanner
+org.apache.xerces.xni.parser.XMLComponent
+org.apache.xerces.impl.XMLNSDocumentScannerImpl
+org.apache.xerces.dom.DOMConfigurationImpl
